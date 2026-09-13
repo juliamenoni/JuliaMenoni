@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C62828&height=220&section=header&text=JULIA%20MENONI&fontSize=42&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=JULIA%20MENONI&fontSize=42&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn" width="100%">
 
 <br>
 
 # JULIA MENONI
 
-### `Desenvolvimento de sistemas Robótica e  Técnologias.`
+### `Desenvolvimento de sistemas Robótica e Tecnologias.`
 
 <p>
   <a href="https://github.com/juliamenoni">
-    <img src="https://img.shields.io/badge/GitHub-C62828?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-C62828?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
@@ -202,11 +202,11 @@ Desenvolvimento de soluções para competições de robótica, envolvendo **prog
 
 | **ÁREA** | **EXPERIÊNCIA** |
 |:---:|:---|
-| 🤖 **Robótica** | SESI ChangeMakers — Designer & Co-capitã;|
-| 🚀 **Astronáutica** | Jornada Brasileira de Foguetes; | Iniciação Científica Júnior; |
-| 🏆 **Olimpíadas** | Participação em olimpíadas científicas; |
-| 💻 **Tecnologia** | Técnico em Desenvolvimento de Sistemas; |
-| 🌎 **Competições** | Eventos e competições nacionais e internacionais. |
+| 🤖 **Robótica** | SESI ChangeMakers — Designer & Co-capitã |
+| 🚀 **Astronáutica** | Jornada Brasileira de Foguetes; Iniciação Científica Júnior |
+| 🏆 **Olimpíadas** | Participação em olimpíadas científicas |
+| 💻 **Tecnologia** | Técnico em Desenvolvimento de Sistemas |
+| 🌎 **Competições** | Eventos e competições nacionais e internacionais |
 
 </div>
 
@@ -216,13 +216,13 @@ Desenvolvimento de soluções para competições de robótica, envolvendo **prog
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliamenoni&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=C62828&icon_color=C62828&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliamenoni&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamenoni&layout=compact&langs_count=7&theme=dark&hide_border=true&title_color=C62828&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamenoni&layout=compact&langs_count=7&theme=dark&hide_border=true&title_color=FFFFFF&text_color=FFFFFF"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=juliamenoni&color=C62828&style=for-the-badge&label=VISITAS+NO+PERFIL"/>
+<img src="https://komarev.com/ghpvc/?username=juliamenoni&color=000000&style=for-the-badge&label=VISITAS+NO+PERFIL"/>
 
 </div>
 
@@ -242,7 +242,7 @@ Desenvolvimento de soluções para competições de robótica, envolvendo **prog
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juliamenoni&bg_color=0D1117&color=FFFFFF&line=C62828&point=FFFFFF&area=true&hide_border=true" width="95%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juliamenoni&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="95%">
 
 </div>
 
@@ -253,24 +253,17 @@ Desenvolvimento de soluções para competições de robótica, envolvendo **prog
 <div align="center">
 
 <a href="https://github.com/juliamenoni">
-<img src="https://img.shields.io/badge/GitHub-C62828?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 &nbsp;
 
 <a href="https://br.linkedin.com/in/julia-guerra-menoni-">
-<img src="https://img.shields.io/badge/LinkedIn-C62828?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
 
-<br>
+
 
 <div align="center">
-
-### `BUILDING. LEARNING. CREATING.`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C62828&height=120&section=footer" width="100%">
-
