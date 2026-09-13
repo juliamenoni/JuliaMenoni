@@ -199,26 +199,9 @@ Desenvolvimento de soluções para competições de robótica, envolvendo **prog
 | 🌎 **Competições** | Eventos e competições nacionais e internacionais |
 
 ---
-
-# 📫 CONTATO
-
 <div align="center">
 
-<a href="https://github.com/juliamenoni">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://br.linkedin.com/in/julia-guerra-menoni-">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<br><br>
-
-### `BUILDING. LEARNING. CREATING.`
-
-<br>
+  ### `BUILDING. LEARNING. CREATING.`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%">
 
