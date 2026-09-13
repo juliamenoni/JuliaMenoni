@@ -6,7 +6,7 @@
 
 # JULIA MENONI
 
-### `Desenvolvimento de Sistemas` · `Robótica` · `Tecnologia`
+### `Desenvolvimento de sistemas Robótica e  Técnologias.`
 
 <p>
   <a href="https://github.com/juliamenoni">
@@ -174,7 +174,7 @@ Tenho especial interesse em projetos que aproximam **ciência, engenharia e tecn
 
 ---
 
-#PROJETOS
+# PROJETOS
 
 <div align="center">
 
@@ -202,11 +202,11 @@ Desenvolvimento de soluções para competições de robótica, envolvendo **prog
 
 | **ÁREA** | **EXPERIÊNCIA** |
 |:---:|:---|
-| 🤖 **Robótica** | SESI ChangeMakers — Designer & Co-capitã |
-| 🚀 **Astronáutica** | Jornada Brasileira de Foguetes | Iniciação Científica Júnior |
-| 🏆 **Olimpíadas** | Participação em olimpíadas científicas |
-| 💻 **Tecnologia** | Técnico em Desenvolvimento de Sistemas |
-| 🌎 **Competições** | Eventos e competições nacionais e internacionais |
+| 🤖 **Robótica** | SESI ChangeMakers — Designer & Co-capitã;|
+| 🚀 **Astronáutica** | Jornada Brasileira de Foguetes; | Iniciação Científica Júnior; |
+| 🏆 **Olimpíadas** | Participação em olimpíadas científicas; |
+| 💻 **Tecnologia** | Técnico em Desenvolvimento de Sistemas; |
+| 🌎 **Competições** | Eventos e competições nacionais e internacionais. |
 
 </div>
 
@@ -274,5 +274,3 @@ Desenvolvimento de soluções para competições de robótica, envolvendo **prog
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C62828&height=120&section=footer" width="100%">
 
-</div>#   J u l i a M e n o n i  
- 
