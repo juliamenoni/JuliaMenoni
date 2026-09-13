@@ -128,7 +128,7 @@ Minha trajetória reúne desenvolvimento de sistemas, robótica competitiva, pro
 
 <div align="center">
 
-### SESI CHANGEMAKERS
+### <u>SESI CHANGEMAKERS</u>
 
 **RoboCup Junior Soccer Infrared**
 
