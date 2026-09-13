@@ -200,42 +200,6 @@ Desenvolvimento de soluções para competições de robótica, envolvendo **prog
 
 ---
 
-# 📊 GITHUB
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliamenoni&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamenoni&layout=compact&langs_count=7&theme=dark&hide_border=true&title_color=FFFFFF&text_color=FFFFFF">
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=juliamenoni&color=000000&style=for-the-badge&label=VISITAS+NO+PERFIL">
-
-</div>
-
----
-
-# 🐍 MINHAS CONTRIBUIÇÕES
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/juliamenoni/juliamenoni/output/github-contribution-grid-snake.svg" alt="Snake animation">
-
-</div>
-
----
-
-# 📈 ATIVIDADE
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juliamenoni&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="95%">
-
-</div>
-
----
-
 # 📫 CONTATO
 
 <div align="center">
