@@ -33,7 +33,7 @@
 
 <td>
 
-Sou estudante do **Ensino Médio** e **Técnica em Desenvolvimento de Sistemas pelo SENAI Americana**.
+Sou estudante do **Ensino Médio** e **1/2 Técnico em Desenvolvimento de Sistemas pelo SENAI Americana**.
 
 Tenho interesse em **programação, robótica, tecnologia, ciência e inovação**, buscando transformar o conhecimento adquirido em projetos práticos.
 
